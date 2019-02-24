@@ -1,0 +1,4 @@
+﻿Fit-Tudo|12|120
+Fit-Light|10|100
+Fit-Cheddar|9|70
+Fit-Chicken|8|80
